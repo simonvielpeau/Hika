@@ -1,0 +1,22 @@
+locations:
+  spawn:
+    red:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      p: 0.0
+      ya: 0.0
+    blue:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      p: 0.0
+      ya: 0.0
+    lobby:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      p: 0.0
+      ya: 0.0
+server: "hika1"
+ip: "play.xonisland.ovh"

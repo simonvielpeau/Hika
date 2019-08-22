@@ -1,0 +1,8 @@
+name: HikaBrain
+author: No0xi
+version: 1.0
+main: fr.noxi.Hika
+commands:
+  hika:
+    permission: hikabrain command
+    
