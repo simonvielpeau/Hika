@@ -1,4 +1,6 @@
-Bienvenue dans mon plugin HikaBrain, que j'ai réalisé pour le serveur l'Exonis quand j'avais 11 ans! 
-Il est connecté à plusieurs base de données SQL, pour les grades, les coins etc...
-Je ne pense pas qu'il est réutilisable sans modifier le code source pour changer les adresses de base de donées etc...
-Bonne lecture !
+# HikaBrain codé pour serveur l'Exonis (ancien projet)
+En java pour minecraft of course 😉
+
+![hikaimage](https://i.ytimg.com/vi/NAT3GJaAQiA/maxresdefault.jpg)
+
+Pas réutilisable car pareil, bases de données & co mais par contre, était pas mal 
